@@ -1,4 +1,6 @@
-## Hi there 👋 I'm hafenmaiere
+### 👋 Hello!
+
+[![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafenmaiere)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I'm currently working on exciting projects and open-source contributions.
 
